@@ -1,1 +1,1 @@
-This is the digital clock trail project.
+This is the digital clock trial project.
